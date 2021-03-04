@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730605783309",
+    "project_id": "kotlingefouce",
+    "storage_bucket": "kotlingefouce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730605783309:android:1723a629c9df4e3b2a4844",
+        "android_client_info": {
+          "package_name": "com.example.kotlingefouce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730605783309-hr4hrf7orvjpit5gcc4qd98lt29jej9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAssVM6tymXoE1ZrOMT5DcmbtNNAG3_hHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730605783309-hr4hrf7orvjpit5gcc4qd98lt29jej9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
